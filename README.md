@@ -100,7 +100,7 @@ python src/web_app.py
 ├── notebooks/
 │   └── nhp_claims_assessor.ipynb    # Jupyter notebook (Colab-compatible)
 ├── data/
-���   ├── sample_claims.csv            # Sample claims dataset
+│   ├── sample_claims.csv            # Sample claims dataset
 │   ├── icd10_reference.csv          # ICD-10 reference data
 │   └── gazette_rules.json           # NHP Gazette rules & tariffs
 ├── .env.example                     # Environment variables template
